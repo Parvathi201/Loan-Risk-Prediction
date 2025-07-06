@@ -80,8 +80,8 @@ env/
 .vscode/
 
 # Data files
-data/raw/
-data/processed/
+# data/raw/
+# data/processed/
 
 # Models - uncomment if models are too large for the repo
 # models/*.joblib
