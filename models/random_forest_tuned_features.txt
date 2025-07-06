@@ -1,0 +1,57 @@
+age
+dependents
+income_annual
+loan_amount
+loan_amount_term
+credit_history
+debt_to_income_ratio
+delinquencies_2yrs
+open_accounts
+total_accounts
+risk_score
+app_year
+app_month
+app_quarter
+app_dayofweek
+app_weekend
+days_since_epoch
+loan_to_income_ratio
+monthly_payment
+income_per_dependent
+credit_utilization
+payment_to_income_ratio
+gender_Male
+marital_status_Married
+marital_status_Single
+marital_status_Widowed
+education_Not Graduate
+self_employed_Yes
+property_area_Semiurban
+property_area_Urban
+loan_grade_B
+loan_grade_C
+loan_grade_D
+loan_grade_E
+risk_score_bucket_Poor
+risk_score_bucket_Fair
+risk_score_bucket_Good
+risk_score_bucket_Very Good
+risk_score_bucket_Excellent
+age_group_25-34
+age_group_35-44
+age_group_45-54
+age_group_55-64
+age_group_65+
+income_group_Low
+income_group_Medium
+income_group_High
+income_group_Very High
+loan_amount_group_Small
+loan_amount_group_Medium
+loan_amount_group_Large
+loan_amount_group_Very Large
+debt_burden_Low
+debt_burden_Medium
+debt_burden_High
+debt_burden_Very High
+app_day
